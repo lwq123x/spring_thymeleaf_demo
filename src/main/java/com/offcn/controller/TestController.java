@@ -6,5 +6,10 @@ public class TestController {
         //update by lwq
         if(true){
         }
+
+        //add by lwq
+        while (true){
+
+        }
     }
 }
